@@ -1,4 +1,3 @@
-// cool way to calculate addition with %
 #include <bits/stdc++.h>
 using namespace std;
 #define nl cout << "\n";
